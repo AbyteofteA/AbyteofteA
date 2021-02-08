@@ -6,9 +6,7 @@
 I'm a 4th-year Software Engineering Student. Looking for a job as a software developer.
 
 I’m interested in everything in Computer Science, especially: 
-_game engines, machine learning, web-crawlers, search engines, virtual machines_.
-
-Other interests: _robotics, electronics, physics, math_.
+_game engines, machine learning, web-crawlers, search engines, virtual machines_. Other interests: _robotics, electronics, physics, math_.
 
 #### Most Used Languages
 ![](https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2b%2b&logoColor=white)
@@ -25,8 +23,6 @@ Other interests: _robotics, electronics, physics, math_.
 ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-cc2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=flat&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/-Atmel%20AVR-00599c?style=flat)
-
-#### Most Used File Formats
 ![](https://img.shields.io/badge/-JSON-white?style=flat&logo=json&logoColor=000000)
 ![](https://img.shields.io/badge/-CSV-white?style=flat)
 ![](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=000000)
